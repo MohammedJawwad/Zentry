@@ -58,9 +58,9 @@ This project is meticulously crafted to encapsulate:
 ## 🛠️ **Installation and Setup**
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/zentry-inspired-website.git
-   ```
+```bash
+git clone https://github.com/your-username/zentry-inspired-website.git
+```
 2. Navigate to the project directory:
 ```bash
 cd zentry
@@ -76,7 +76,7 @@ npm run dev
 5. Open your browser and navigate to http://localhost:3000.
 ---
 
-💡 Usage
+##💡 Usage
 
 1. Development:
 Run 'npm run dev' to start the local development server.
@@ -88,3 +88,4 @@ npm run build
 ```
 3. Deploy:
 Deploy the production build to your hosting platform of choice (which i used is Netlify).
+
