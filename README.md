@@ -48,7 +48,7 @@ Take a glimpse at the captivating design and interactive features of **Zentry**:
 ![Scroll Animations]()
 
 ### **3. Video Storytelling**  
-![Video Transitions]()  
+![Video Transitions](screenshot_3.png)  
  
 
 ---
