@@ -76,10 +76,13 @@ npm run dev
 5. Open your browser and navigate to http://localhost:3000.
 ---
 
-##💡 Usage
+## 💡 Usage
 
 1. Development:
-Run 'npm run dev' to start the local development server.
+Run npm run dev to start the local development server.
+```bash
+npm run dev
+```
 
 2. Production Build:
 Generate optimized production files with:
