@@ -2,7 +2,7 @@
 
 **Zentry** is a futuristic, interactive website that delivers a luxurious experience with captivating scroll-based animations, geometric transitions, and engaging video storytelling. Built with cutting-edge web technologies, it combines dynamic visuals with smooth performance for an Awwwards-worthy design.  
 
-![Zentry](public/ZentryPreview.png)  
+![Zentry](home.png)  
 
 ## 🌐 Demo  
 
@@ -32,7 +32,24 @@ Experience the live demo here: [Zentry: Explore the Magic](https://zentry-js.net
 
 ### ♻️ Code Excellence  
 - Modular architecture for maintainability  
-- Reusable components for scalability  
+- Reusable components for scalability
+
+---
+---
+
+## 🖼️ Visual Highlights  
+
+Take a glimpse at the captivating design and interactive features of **Zentry**:  
+
+### **1. Hero Section**  
+![Hero Section](home.png)   
+
+### **2. Interactive Animations**  
+![Scroll Animations]()
+
+### **3. Video Storytelling**  
+![Video Transitions]()  
+ 
 
 ---
 
