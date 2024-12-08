@@ -55,13 +55,6 @@ This project is meticulously crafted to encapsulate:
 
 ---
 
-## 📂 **Project Structure**
-
-Zentry-Inspired-Website/ ├── src/ │ ├── components/ # Reusable components (e.g., Navbar, Footer) │ ├── animations/ # Animation logic using GSAP │ ├── styles/ # Global and reusable Tailwind styles │ ├── assets/ # Images, videos, and other static assets │ └── App.js # Main app entry point ├── public/ # Public files (favicon, index.html, etc.) ├── package.json # Project dependencies └── README.md # Project documentation
-
-
----
-
 ## 🛠️ **Installation and Setup**
 
 1. Clone the repository:
@@ -81,8 +74,10 @@ npm install
 npm run dev
 ```
 5. Open your browser and navigate to http://localhost:3000.
+---
 
 💡 Usage
+
 1. Development:
 Run 'npm run dev' to start the local development server.
 
