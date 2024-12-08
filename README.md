@@ -45,10 +45,13 @@ Take a glimpse at the captivating design and interactive features of **Zentry**:
 ![Hero Section](home.png)   
 
 ### **2. Interactive Animations**  
-![Scroll Animations]()
+![Scroll Animations](Screenshot_1.png)
 
 ### **3. Video Storytelling**  
-![Video Transitions](screenshot_3.png)  
+![Video Transitions](Screenshot_3.png)  
+
+### **4. Engagement Triggers**  
+![Video Transitions](Screenshot_2.png)  
  
 
 ---
