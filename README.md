@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 **Live Demo**
-[👉 Zentry : Explore the Magic](https://zentry-js.netlify.app/)
+[⚡ Zentry : Explore the Magic](https://zentry-js.netlify.app/)
 
 ---
 
@@ -59,11 +59,11 @@ This project is meticulously crafted to encapsulate:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/zentry-inspired-website.git
+https://github.com/MohammedJawwad/Zentry.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd zentry
+cd Zentry
 ```
 3. Install dependencies:
 ```bash
